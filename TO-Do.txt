@@ -1,0 +1,5 @@
+1. use vosk-gigaspeech instead of vosk-small
+2. apply crossfade correctly
+3. perform speaker diarization : The output video file should have different voices for different speakers
+4. can it be used to dub a video file (maybe into another language altogether) ?
+5. need for models to control loudness and pitch, to be used for different speakers in speaker diarization, thereby potentially creating near-perfect replica of the original video
